@@ -1,0 +1,2 @@
+# Possible-Interview-Questions
+My professor says that interview questions are things like "How would you make a project to evaluate this expression" or "How would you make a project to evaluate if this string is a Palindrome?", but when I went to interview at McDonalds all they cared about is "What do you do in your free time?" and "How would you react if a customer told you that they got the wrong order?"... I guess this project is a waste.
